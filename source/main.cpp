@@ -8,6 +8,8 @@ int main()
 	// 時序控制 - 許
 	// 畫面更新 - 陳
 	// 規則設計 - 梁
+
+	// 上傳測試
 }
 bool Timer(int ms, int id)
 {
