@@ -1,18 +1,15 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
   main.cpp
-<<<<<<< HEAD
-c:\users\tonya\desktop\final-project\source\main.cpp(67): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\tonya\desktop\final-project\source\main.cpp(142): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+c:\users\x9012\onedrive\桌面\final-project\source\main.cpp(67): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\x9012\onedrive\桌面\final-project\source\main.cpp(142): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 請參閱 'getch' 的宣告
-c:\users\tonya\desktop\final-project\source\main.cpp(159): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+c:\users\x9012\onedrive\桌面\final-project\source\main.cpp(159): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 請參閱 'kbhit' 的宣告
-c:\users\tonya\desktop\final-project\source\main.cpp(161): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+c:\users\x9012\onedrive\桌面\final-project\source\main.cpp(161): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 請參閱 'getch' 的宣告
-c:\users\tonya\desktop\final-project\source\main.cpp(317): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+c:\users\x9012\onedrive\桌面\final-project\source\main.cpp(317): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 請參閱 'kbhit' 的宣告
-c:\users\tonya\desktop\final-project\source\main.cpp(317): warning C4390: ';': 找到空白的控制陳述式，是正確的嗎?
-  final project.vcxproj -> C:\Users\ToNyA\Desktop\final-project\final project\final project\..\..\temp\debug\final project.exe
-=======
-  final project.vcxproj -> C:\Users\Joannne\Desktop\final-project\final project\final project\..\..\temp\debug\final project.exe
->>>>>>> develop
+c:\users\x9012\onedrive\桌面\final-project\source\main.cpp(317): warning C4390: ';': 找到空白的控制陳述式，是正確的嗎?
+  LINK : 最後的累加連結找不到或未建置 ..\..\temp\debug\final project.exe，正在執行完整連結
+  final project.vcxproj -> C:\Users\x9012\OneDrive\桌面\final-project\final project\final project\..\..\temp\debug\final project.exe
