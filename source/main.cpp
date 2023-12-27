@@ -34,7 +34,7 @@ void HideCursor(void)
 
 void CursorJump(int x, int y)
 {
-	COORD pos; pos.X = x; pos.Y = y;
+	COORD pos; pos.X = x;pos.Y = y;
 	HANDLE handle = GetStdHandle(STD_OUTPUT_HANDLE);
 	SetConsoleCursorPosition(handle, pos);
 }
