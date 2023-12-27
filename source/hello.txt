@@ -1,7 +1,14 @@
 hello there
 this is a test
 this is so hard
+<<<<<<< HEAD
 another
 another
 another
 another
+=======
+anther
+anther
+123
+anther
+>>>>>>> pp
