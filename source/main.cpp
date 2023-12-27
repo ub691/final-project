@@ -64,7 +64,7 @@ int main()
 	initCanva();	// 初始化遊戲區域
 	HideCursor();	// 隱藏光標
 
-	srand(time(NULL));
+	srand(time(NULL));//亂樹種子
 
 	Asking();		// 命令詢問
 	initData();		// 初始化數據
